@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rhakdkrehd/static/css/main.7cbe93ff.css",
+    "main.js": "/rhakdkrehd/static/js/main.9139b152.js",
+    "static/js/453.1d9a75e6.chunk.js": "/rhakdkrehd/static/js/453.1d9a75e6.chunk.js",
+    "index.html": "/rhakdkrehd/index.html",
+    "main.7cbe93ff.css.map": "/rhakdkrehd/static/css/main.7cbe93ff.css.map",
+    "main.9139b152.js.map": "/rhakdkrehd/static/js/main.9139b152.js.map",
+    "453.1d9a75e6.chunk.js.map": "/rhakdkrehd/static/js/453.1d9a75e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cbe93ff.css",
+    "static/js/main.9139b152.js"
+  ]
+}
